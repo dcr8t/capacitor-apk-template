@@ -1,0 +1,3 @@
+-keep class com.getcapacitor.** { *; }
+-keep class com.apkcreator.template.** { *; }
+-dontwarn com.getcapacitor.**
